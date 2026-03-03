@@ -1,11 +1,11 @@
-👋 ¡Hola, soy Joselo!
-🚀 Soy un estudiante de software con una pasión por crear y entender soluciones eficientes y accesibles. Llevo años aprendiendo de Linux y me encanta el software libre 🐧. Me estoy especializando en:
+👋 ¡Hola, soy **Joselo**!
+Soy un estudiante de software con una pasión por crear y entender soluciones eficientes y accesibles. Llevo un par años aprendiendo Linux y me encanta el software libre.
 
-Desarrollo Backend ⚙️
-Análisis de Datos 📊
-Python 🐍
-Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades 💻.
+🛠️ Me interesas
 
-🛠️ Tecnologías que uso
+Desarrollo Backend 
+Análisis de Datos 
+Python 
+Linux
+Docker
 
-Lenguajes: 🐍 Python, Bash Bases de Datos: 🗄️ SQLite Herramientas: 🔗 Git, GitHub y Docker Sistema Operativo: 🐧 Linux
